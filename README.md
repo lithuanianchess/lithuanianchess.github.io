@@ -178,7 +178,7 @@ Zacharijus demonstrated discipline, precision, and exceptional psychological str
 </p>
 
 <p class="lang lt" style="display:none">
-Zacharijus demonstravo discipliną, tikslumą ir išskirtinį psichologinį stiprumą, o gyvenimas Vilniaus lietuvių namų gimnazijos bendrabutyje tapo svarbia jo šachmatų kelio dalimi – būtent čia jis nuolat dalyvavo turnyruose, nepaisant to, kad nuo gimimo nėra Lietuvos pilietis, važiuodamas į vasaros atostogas į savo gimtinę, jis žaidė Šachmatų Rusijos Federacijos turnyruose, bet jo titulas buvo pripažintas Lietuvoje, "jo širdies šalyje".
+Zacharijus demonstravo discipliną, tikslumą ir išskirtinį psichologinį stiprumą, o gyvenimas Vilniaus lietuvių namų gimnazijos bendrabutyje tapo svarbia jo šachmatų kelio dalimi – būtent čia jis nuolat dalyvavo turnyruose, nepaisant to, kad nuo gimimo nėra Lietuvos pilietis, važiuodamas į vasaros atostogas į savo gimtinę, jis žaidė Šachmatų Rusijos Federacijos turnyruose, tačiau jo titulas buvo pripažintas Lietuvoje, "jo širdies šalyje".
 </p>
 </section>
 
