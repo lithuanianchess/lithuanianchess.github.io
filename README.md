@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<title>Zacharijus Kurnosov – 9th Grandmaster of Lithuania</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
@@ -134,12 +135,16 @@ footer {
 
 <body>
 <div class="container">
-<p class="subtitle lang en">
+
 <header>
 <div>
 <h1>Zacharijus Kurnosov</h1>
+
+<p class="subtitle lang en">
 Zacharijus Kurnosov has officially become the <strong>9th Grandmaster in Lithuania</strong>,
 marking a historic milestone for Lithuanian chess on the international stage.
+</p>
+
 <p class="subtitle lang lt" style="display:none">
 Zacharijus Kurnosov oficialiai tapo <strong>9-uoju didmeistriu Lietuvoje</strong>,
 pažymėdamas istorinį pasiekimą Lietuvos šachmatų istorijoje.
@@ -155,12 +160,12 @@ pažymėdamas istorinį pasiekimą Lietuvos šachmatų istorijoje.
 
 <p class="lang en">
 In 2025, in Lithuania, Zacharijus Kurnosov earned the prestigious Grandmaster title.
-This achievement represents year of dedication, elite competition, and strategic excellence.
+This achievement represents years of dedication, elite competition, and strategic excellence.
 </p>
 
 <p class="lang lt" style="display:none">
 2025 metais Lietuvoje Zacharijus Kurnosov pasiekė prestižinį didmeistrio titulą.
-Šis pasiekimas – metų darbas, strategijos ir meistriškumo rezultatas.
+Šis pasiekimas – daugelio metų darbo, varžybų ir meistriškumo rezultatas.
 </p>
 </section>
 
@@ -169,10 +174,13 @@ This achievement represents year of dedication, elite competition, and strategic
 <h2 class="lang lt" style="display:none">Kelias Lietuvoje</h2>
 
 <p class="lang en">
-Life in the dormitory of "Vilnius Lietuvių Namai" Gymnasium became an important part of his chess journey — it was there that he regularly took part in tournaments. Despite not being a Lithuanian citizen since birth, he competed in tournaments of the Russian Chess Federation while traveling to his homeland during summer holidays, yet his title was officially recognized in Lithuania, “the country of his heart.”
+From local tournaments in Lithuania to high-level international competitions,
+Zacharijus demonstrated discipline, precision, and exceptional mental strength.
 </p>
+
 <p class="lang lt" style="display:none">
-Gyvenimas Vilniaus lietuvių namų gimnazijos bendrabutyje tapo svarbia jo šachmatų kelio dalimi – būtent čia jis nuolat dalyvavo turnyruose, nepaisant to, kad nuo gimimo nėra Lietuvos pilietis, važiuodamas į vasaros atostogas į savo gimtinę, jis žaidė Šachmatų Rusijos Federacijos turnyruose, bet jo titulas buvo pripažintas Lietuvoje, "jo širdies šalyje."
+Nuo vietinių turnyrų Lietuvoje iki tarptautinių varžybų Zacharijus demonstravo
+discipliną, tikslumą ir išskirtinį psichologinį stiprumą.
 </p>
 </section>
 
@@ -181,11 +189,12 @@ Gyvenimas Vilniaus lietuvių namų gimnazijos bendrabutyje tapo svarbia jo šach
 <h2 class="lang lt" style="display:none">Ką tai reiškia Lietuvai</h2>
 
 <p class="lang en">
-Zacharijus still cannot fully grasp the significance of his achievement, but becoming the 9th Grandmaster in Lithuania strengthens the country’s position on the global chess map and inspires the younger generation of Lithuanian chess players.
+Becoming the 9th Grandmaster in Lithuania strengthens the country’s position
+on the global chess map and inspires young Lithuanian players.
 </p>
 
 <p class="lang lt" style="display:none">
-Zacharijus vis dar negali iki galo suvokti savo pasiekto titulo, bet tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų
+Tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų
 žemėlapyje ir įkvepia jaunąją Lietuvos šachmatininkų kartą.
 </p>
 
