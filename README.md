@@ -135,7 +135,6 @@ footer {
 <body>
 <div class="container">
 <p class="subtitle lang en">
-</p>
 <header>
 <div>
 <h1>Zacharijus Kurnosov</h1>
